@@ -1,0 +1,5 @@
+1) file handler: a program that moves to a directory and performs basic file handling, exception handling included.
+2) terminal based RPG: an RPG game which will be terminally based, complete with a short campaign and a roguelite mode
+3) screener: a terminal based screen which performs basic fundamental analysis on inputted tickers
+4) algo trader: an algorithmic trader :)
+5) GUI upgrade: add a basic, clean and user-friendly GUI to all the stuff previously made

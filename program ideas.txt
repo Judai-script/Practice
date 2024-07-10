@@ -3,3 +3,4 @@
 3) screener: a terminal based screen which performs basic fundamental analysis on inputted tickers
 4) algo trader: an algorithmic trader :)
 5) GUI upgrade: add a basic, clean and user-friendly GUI to all the stuff previously made
+6) math problem solving library: when preping for CUET, make a library which takes in the question for every problem type and answers it
